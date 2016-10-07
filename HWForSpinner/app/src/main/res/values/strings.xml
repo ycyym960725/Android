@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HWForSpinner</string>
+    <string-array name="book">
+        <item>C</item>
+        <item>java</item>
+        <item>python</item>
+        <item>c++</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+#Tue Oct 04 15:11:29 CST 2016
+base.0=E\:\\ProgramCoding\\Android\\ExpandableListViewLearn\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df4a19f1e27279c1272fe16bbd9fffaa96bc712b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\ProgramCoding\\Android\\ExpandableListViewLearn\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9946ca93a3e0b70574133040758d2e17dd978ce9\\classes.dex
+base.1=E\:\\ProgramCoding\\Android\\ExpandableListViewLearn\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9946ca93a3e0b70574133040758d2e17dd978ce9
+file.0=E\:\\ProgramCoding\\Android\\ExpandableListViewLearn\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df4a19f1e27279c1272fe16bbd9fffaa96bc712b\\classes.dex

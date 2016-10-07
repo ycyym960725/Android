@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a1f941f916884f3b4043fd0851cc0ef5047a6bbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_601fa9e060812f08464610b55e6520459c5c0b1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="166681ab6699d0dc0ec372bc2a50c2d7118a9ee4">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9946ca93a3e0b70574133040758d2e17dd978ce9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_40a83e3fadea5cb756ccef225d24795e22ef1d81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_30f62855d6c20a878c57fb84bd3f9038c76bdb44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_f86ab70a5ac082e149e23a352cb505a4d927a738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_27d8a128417337a9fce07c448aac881edec545f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6733b13d68e8e147d1cd3c4e3e05d8f16f80a5a">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_df4a19f1e27279c1272fe16bbd9fffaa96bc712b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_fe719e32ef6163d68170ad820ca7c51b65c40fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5862911ba2bd70a22c5444c6448f8c105491dfc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_09685c7a99333036abd8d2c84ac71fdd504f6415\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_57181c03082da153d35acbbbcfb47a5fd18cd3b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e944ab2b0a657a9e9bbd17374ab37d3afea9f68f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_9ce2d4e97f108e8e643399d8fc0be5c2ab466f2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f2392b165fb0e05ca5ce44847cbece6ef7c4ae24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_93e625a3131ced9145b4baee023dcb0c872d7c57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\ProgramCoding\Android\ExpandableListViewLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_073b8c9b1063166cf8d9d1d5dee2b9e2ceb7aa1d\classes.dex" />
+    </item>
+
+</items>
