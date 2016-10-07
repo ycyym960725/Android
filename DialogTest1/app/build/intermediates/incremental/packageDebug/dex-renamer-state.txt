@@ -1,7 +1,0 @@
-#Fri Oct 07 14:59:37 CST 2016
-base.0=E\:\\ProgramCoding\\Android\\DialogTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e9cf532652ebb227a29f569eeb3e7def343e97aa
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\ProgramCoding\\Android\\DialogTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6fc846662421a0dff7dfa4d77148c3c1c4ed1a5c\\classes.dex
-base.1=E\:\\ProgramCoding\\Android\\DialogTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6fc846662421a0dff7dfa4d77148c3c1c4ed1a5c
-file.0=E\:\\ProgramCoding\\Android\\DialogTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e9cf532652ebb227a29f569eeb3e7def343e97aa\\classes.dex
