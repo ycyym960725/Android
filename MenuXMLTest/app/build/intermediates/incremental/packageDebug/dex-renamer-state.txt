@@ -1,0 +1,7 @@
+#Fri Oct 07 15:14:38 CST 2016
+base.0=E\:\\ProgramCoding\\Android\\MenuXMLTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_480ccd2902214e0d87dbfaab2ca5a18ef97c7deb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\ProgramCoding\\Android\\MenuXMLTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b27d3500432dd94e374d9af7a00f9cc811d8cb48\\classes.dex
+base.1=E\:\\ProgramCoding\\Android\\MenuXMLTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b27d3500432dd94e374d9af7a00f9cc811d8cb48
+file.0=E\:\\ProgramCoding\\Android\\MenuXMLTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_480ccd2902214e0d87dbfaab2ca5a18ef97c7deb\\classes.dex

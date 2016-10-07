@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">MenuXMLTest</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="file">文件</string>
+    <string name="create">新建</string>
+    <string name="open">打开</string>
+    <string name="save">保存</string>
+    <string name="exit">退出</string>
+    
+    <string name="edit">编辑</string>
+    <string name="huifu">恢复</string>
+    <string name="quxiao">取消</string>
+    <string name="chazhao">查找</string>
+    <string name="tihuan">替换</string>
+    <string name="dingwei">定位</string>
+    
+    <string name="setting">设置</string>
+    <string name="qiyong">启用</string>
+    <string name="jinzhi">禁止</string>
+    
+    <string name="help">帮助</string>
+    
+    <string name="file01">文件一</string>
+    <string name="file02">文件二</string>
+        
+
+</resources>
