@@ -7,6 +7,7 @@
     android:paddingRight="16dp">
 
     <TextView
+        android:id="@+id/title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/title"
@@ -45,10 +46,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <Button
+            android:id="@+id/select_city"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:text="选择所在地"/>
         <EditText
+            android:id="@+id/edit_city"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>

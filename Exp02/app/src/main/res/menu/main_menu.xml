@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:title="文本编辑"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:title="重命名"
+                android:id="@+id/rename"/>
+            <item
+                android:title="设置颜色">
+                <menu>
+                    <item
+                        android:title="红色"
+                        android:id="@+id/set_red"/>
+                    <item
+                        android:title="绿色"
+                        android:id="@+id/set_green"/>
+                    <item
+                        android:id="@+id/set_blue"
+                        android:title="蓝色"/>
+                </menu>
+
+            </item>
+        </menu>
+
+    </item>
+
+</menu>
