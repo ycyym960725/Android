@@ -1,4 +1,4 @@
-package com.example.lu.exp02.City;
+package com.example.lu.exp02.city;
 
 import android.app.Activity;
 import android.graphics.Color;
@@ -18,32 +18,31 @@ import java.util.ArrayList;
 
 public class CityExpandableListViewAdapter extends BaseExpandableListAdapter {
     private Activity activity;
-    private ArrayList<Data> datas;
+    private ArrayList<Data> provinces;
 
     public CityExpandableListViewAdapter(Activity activity) {
         this.activity=activity;
-        datas=DataList.getProvince();
+        provinces =DataList.getProvinces();
     }
-
 
     @Override
     public int getGroupCount() {
-        return datas.size();
+        return provinces.size();
     }
 
     @Override
     public int getChildrenCount(int groupPosition) {
-        return datas.get(groupPosition).getCityName().size();
+        return provinces.get(groupPosition).getCityNames().size();
     }
 
     @Override
     public Object getGroup(int groupPosition) {
-        return datas.get(groupPosition).getProvinceName();
+        return provinces.get(groupPosition).getProvinceName();
     }
 
     @Override
     public Object getChild(int groupPosition, int childPosition) {
-        return datas.get(groupPosition).getCityName().get(childPosition);
+        return provinces.get(groupPosition).getCityNames().get(childPosition);
     }
 
     @Override
@@ -63,12 +62,12 @@ public class CityExpandableListViewAdapter extends BaseExpandableListAdapter {
 
     @Override
     public View getGroupView(int groupPosition, boolean isExpanded, View convertView, ViewGroup parent) {
-        return getGenericView(datas.get(groupPosition).getProvinceName(),Color.RED,1);
+        return getGenericView(provinces.get(groupPosition).getProvinceName(),Color.RED,1);
     }
 
     @Override
     public View getChildView(int groupPosition, int childPosition, boolean isLastChild, View convertView, ViewGroup parent) {
-        return getGenericView(datas.get(groupPosition).getCityName().get(childPosition),Color.BLUE,2);
+        return getGenericView(provinces.get(groupPosition).getCityNames().get(childPosition),Color.BLUE,2);
     }
 
     @Override
@@ -76,13 +75,22 @@ public class CityExpandableListViewAdapter extends BaseExpandableListAdapter {
         return true;
     }
 
-    public View getGenericView(String text, int color,int level)
-    {
+    /**
+     * inflater一个布局
+     * @param text 填充到TextView中的数据
+     * @param color text的颜色
+     * @param level 一级列表or二级列表
+     * @return LinearLayout
+     */
+    public View getGenericView(String text, int color,int level) {
         LinearLayout linearLayout= (LinearLayout) activity.getLayoutInflater().inflate(R.layout.list_adapter,null);
 
         TextView textView = (TextView) linearLayout.findViewById(R.id.list_text_view);
         textView.setText(text);
         textView.setTextColor(color);
+        /**
+         * 如果是子列表，则增加一定的左边距
+         */
         if(level==2)
             textView.setPadding(textView.getPaddingLeft()+50,textView.getPaddingTop(),textView.getPaddingRight(),textView.getPaddingBottom());
 

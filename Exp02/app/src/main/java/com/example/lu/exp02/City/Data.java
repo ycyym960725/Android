@@ -1,4 +1,4 @@
-package com.example.lu.exp02.City;
+package com.example.lu.exp02.city;
 
 import java.util.ArrayList;
 
@@ -8,11 +8,11 @@ import java.util.ArrayList;
 
 public class Data {
     private String provinceName;
-    private ArrayList<String> cityName;
+    private ArrayList<String> cityNames;
 
-    public Data(String provinceName, ArrayList<String> cityName) {
+    public Data(String provinceName, ArrayList<String> cityNames) {
         this.provinceName = provinceName;
-        this.cityName = cityName;
+        this.cityNames = cityNames;
     }
 
     public String getProvinceName() {
@@ -23,11 +23,11 @@ public class Data {
         this.provinceName = provinceName;
     }
 
-    public ArrayList<String> getCityName() {
-        return cityName;
+    public ArrayList<String> getCityNames() {
+        return cityNames;
     }
 
-    public void setCityName(ArrayList<String> cityName) {
-        this.cityName = cityName;
+    public void setCityNames(ArrayList<String> cityNames) {
+        this.cityNames = cityNames;
     }
 }

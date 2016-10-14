@@ -1,4 +1,4 @@
-package com.example.lu.exp02.City;
+package com.example.lu.exp02.city;
 
 import java.util.ArrayList;
 
@@ -7,14 +7,12 @@ import java.util.ArrayList;
  */
 
 public class DataList {
-    private static ArrayList<Data> province;
+    private static ArrayList<Data> provinces;
 
-
-
-    public static ArrayList<Data> getProvince() {
-        if (province==null)
+    public static ArrayList<Data> getProvinces() {
+        if (provinces ==null)
         {
-            province=new ArrayList<>();
+            provinces =new ArrayList<>();
 
             ArrayList<String> cityName=new ArrayList<>();
             String provinceName="江西";
@@ -24,7 +22,7 @@ public class DataList {
             cityName.add("上饶");
             cityName.add("九江");
 
-            province.add(new Data(provinceName,new ArrayList<String>(cityName)));
+            provinces.add(new Data(provinceName,new ArrayList<String>(cityName)));
 
             provinceName="江苏";
             cityName.clear();
@@ -33,7 +31,7 @@ public class DataList {
             cityName.add("扬州");
             cityName.add("无锡");
             cityName.add("南通");
-            province.add(new Data(provinceName,new ArrayList<String>(cityName)));
+            provinces.add(new Data(provinceName,new ArrayList<String>(cityName)));
 
             provinceName="浙江";
             cityName.clear();
@@ -42,10 +40,10 @@ public class DataList {
             cityName.add("湖州");
             cityName.add("嘉兴");
             cityName.add("温州");
-            province.add(new Data(provinceName,new ArrayList<String>(cityName)));
+            provinces.add(new Data(provinceName,new ArrayList<String>(cityName)));
 
         }
 
-        return province;
+        return provinces;
     }
 }
