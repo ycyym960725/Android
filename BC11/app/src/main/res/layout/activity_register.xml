@@ -1,0 +1,102 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/register_bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ccbbaa"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="欢迎注册"
+        android:textSize="20sp" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:stretchColumns="1" >
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:text="账　　号" />
+
+            <EditText
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="手机号或邮箱" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:text="密　　码" />
+
+            <EditText
+                android:id="@+id/psd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="密码不少于3位"
+                android:inputType="textPassword" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:text="确认密码" />
+
+            <EditText
+                android:id="@+id/repsd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="两次密码要一致"
+                android:inputType="textPassword" />
+        </TableRow>
+
+        <TableRow
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:text="性　　别" />
+
+            <RadioGroup android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/male"
+                    android:checked="true"
+                    android:text="男"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content" />
+
+                <RadioButton
+                    android:id="@+id/female"
+                    android:text="女"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"/>
+            </RadioGroup>
+        </TableRow>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="register"
+            android:text="注册" />
+    </TableLayout>
+
+</LinearLayout>
