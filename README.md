@@ -8,4 +8,4 @@
 2. [10月15号作业](https://github.com/JLbeard/Android/tree/10.15) ：DialogTest1（已完成）、MenuXMLTest（已完成）
 3. [实验一代码](https://github.com/JLbeard/Android/tree/Exp01) ：HWExp01（已完成）
 4. [实验二代码](https://github.com/JLbeard/Android/tree/Exp02) ：Exp02（已完成）
-5. [11月18号作业](https://github.com/JLbeard/Android/tree/11.18) ：ThreadChangeImage（已完成）
+5. [11月18号作业](https://github.com/JLbeard/Android/tree/11.18) ：ThreadChangeImage（已完成）、BC11（已完成）
